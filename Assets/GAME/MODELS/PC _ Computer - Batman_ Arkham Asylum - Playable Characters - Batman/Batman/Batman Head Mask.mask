@@ -6,13 +6,13 @@ AvatarMask:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Batman Animation Mask
+  m_Name: Batman Head Mask
   m_Mask: 00000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000u
   m_Elements:
   - m_Path: 
     m_Weight: 1
   - m_Path: Batman_Head_Skin.mo_Batman_Head_Skin.md
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: Batman_skin.mo_Batman_skin.md
     m_Weight: 0
   - m_Path: Cape_Mesh_D.mo_Cape_Mesh_D.md
